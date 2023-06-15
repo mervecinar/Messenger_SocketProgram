@@ -1,2 +1,2 @@
 # Messenger
-Bilgisayar Ağları Proje 2 Merve Çınar 1821221025
+This is a messaging application, a multi-purpose server client application that communicates between multiple clients.
